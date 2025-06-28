@@ -5,11 +5,17 @@ This project is a Python-based Smart Attendance System that uses facial recognit
 ## 📁 Project Structure
 
 SmartAttendance/
+
 ├── scripts/ # Python scripts for capturing, encoding, and recognizing faces
+
 ├── dataset/ # Stored face images for registered users
+
 ├── encodings/ # Pickled facial encodings
+
 ├── attendance/ # Excel/CSV logs of attendance
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 markdown
