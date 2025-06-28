@@ -44,6 +44,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
+
 🚀 Usage
 Capture New Faces:
 
@@ -51,6 +52,7 @@ bash
 Copy
 Edit
 python scripts/capture_images.py
+
 Encode Faces:
 
 bash
@@ -63,6 +65,7 @@ bash
 Copy
 Edit
 python scripts/recognize_faces.py
+
 📦 Requirements
 See requirements.txt or install directly:
 
