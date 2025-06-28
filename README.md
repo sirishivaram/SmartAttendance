@@ -13,7 +13,9 @@ SmartAttendance/
 └── README.md # Project documentation
 
 markdown
+
 Copy
+
 Edit
 
 ## 💡 Features
@@ -34,18 +36,27 @@ Edit
 Create a virtual environment (recommended):
 
 bash
+
 Copy
+
 Edit
+
 python -m venv venv
+
 venv\Scripts\activate  # On Windows
+
 Install dependencies:
 
 bash
+
 Copy
+
 Edit
+
 pip install -r requirements.txt
 
 🚀 Usage
+
 Capture New Faces:
 
 bash
@@ -62,16 +73,23 @@ python scripts/encode_faces.py
 Run Attendance System:
 
 bash
+
 Copy
+
 Edit
+
 python scripts/recognize_faces.py
 
 📦 Requirements
+
 See requirements.txt or install directly:
 
 bash
+
 Copy
+
 Edit
+
 pip install opencv-python face_recognition numpy pandas
 
 🙌 Acknowledgements
@@ -81,3 +99,9 @@ OpenCV
 face_recognition
 
 Dlib
+
+👨🏻‍💻Author:-
+
+Aradonda Siri Shiva Ram
+
+gmail:aradondasirishivaram@gmail.com
